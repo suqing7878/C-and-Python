@@ -1,0 +1,7 @@
+﻿  c++ to python.cpp
+  main_c.cpp
+C:\Users\yangy\Desktop\c++ to python\c++ to python\main_c.cpp(1,1): warning C4828: 文件包含在偏移 0xc1 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  LINK : 没有找到 C:\Users\yangy\Desktop\c++ to python\x64\Debug\c++ to python.dll 或上一个增量链接没有生成它；正在执行完全链接
+    正在创建库 C:\Users\yangy\Desktop\c++ to python\x64\Debug\c++ to python.lib 和对象 C:\Users\yangy\Desktop\c++ to python\x64\Debug\c++ to python.exp
+  c++ to python.vcxproj -> C:\Users\yangy\Desktop\c++ to python\x64\Debug\c++ to python.dll
